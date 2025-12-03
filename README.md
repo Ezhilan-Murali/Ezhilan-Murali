@@ -46,7 +46,7 @@ Currently pursuing my **Master’s in Electrical and Computer Engineering** in C
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ezhilan-murali)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ezhilan-murali-16aa6a1b3/)  
 - 📧 **Email:** ezhilan944@gmail.com  
 - 🧠 Always open to collaboration on VLSI, verification, and design projects.
 
