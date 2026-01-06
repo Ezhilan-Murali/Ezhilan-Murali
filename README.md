@@ -23,6 +23,8 @@ Currently pursuing my **Master’s in Electrical and Computer Engineering** in C
 | **D Flip-Flop Verification** | RTL design and testbench verifying sequential logic behavior using SystemVerilog classes (Generator, Driver, Monitor, Scoreboard). | [🔗 View Repo](https://github.com/Ezhilan-Murali/dff-verification) |
 | **FIFO Verification** | Design and functional verification of an 8x8 FIFO buffer with random write/read stimulus, scoreboard-based validation, and waveform results. | [🔗 View Repo](https://github.com/Ezhilan-Murali/fifo-verification) |
 | **SPI Verification** | Design and verification of SPI master-slave communication using SystemVerilog with scoreboard-based checking. | [🔗 View Repo](https://github.com/Ezhilan-Murali/spi-verification) |
+| UART Verification | RTL design and verification of UART TX/RX using SystemVerilog classes with scoreboard-based validation. | [🔗 View Repo](https://github.com/Ezhilan-Murali/uart-verification) |
+
 
 > Each project includes clean documentation, simulation logs, and waveforms to demonstrate correctness and methodology.
 
